@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BDsb3QLJHRpQtSmO4FJSWMxUZgGHJPD1J14ZUMr1CEXxwl/TgK3w1KdMgK8kkNTVB9biStAucy6P6fwweE4FmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Boki\\Desktop\\GIT_Prezentacija\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.lowcostinterlock.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
